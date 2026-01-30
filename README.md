@@ -115,3 +115,5 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ---
 
 Um abraço e um pão de queijo! 🧀
+
+TODO: adicionar regras gramaticais do idioma mineiro
